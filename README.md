@@ -39,6 +39,15 @@ while True:
     s.send("Acknowledgement Received".encode())
 ```
 ## OUTPUT
+### SERVER
+
+<img width="569" height="234" alt="Screenshot 2025-11-10 180109" src="https://github.com/user-attachments/assets/252bace2-5f2f-42e0-a9e9-b0758adff896" />
+
+
+### CLIENT
+
+
+<img width="616" height="171" alt="Screenshot 2025-11-10 180124" src="https://github.com/user-attachments/assets/be37d8f9-3af6-48e4-a05f-a69db94671df" />
 
 
 
